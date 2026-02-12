@@ -11,7 +11,7 @@ This repository contains the machine learning projects I completed during my int
 # 🔹 [Task 1: Titanic Survival Prediction](Task_1_Titanic/titanic_logistic_regression.ipynb)
 - Predicts passenger survival using **logistic regression**
 - Cleaned and visualized Titanic dataset
-- Evaluated model with accuracy and classification report
+- Evaluated model with accuracy, confusion matrix and classification report
 - Evaluated with precision, recall, F1-score
 - Used: `pandas`, `seaborn`, `matplotlib`, `scikit-learn`
 
